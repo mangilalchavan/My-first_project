@@ -1,3 +1,3 @@
-# Myfirst Github_Repo
+# My first Github_Repo
 My first Github Repository
-Aothor : Mangilal chavan
+Author : Mangilal chavan
